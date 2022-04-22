@@ -1,4 +1,4 @@
-# Create a shoping cart with react redux toolkit
+# Create a shopping cart with react redux toolkit
 
 ![](/public/gerald-black-01.png)
 
