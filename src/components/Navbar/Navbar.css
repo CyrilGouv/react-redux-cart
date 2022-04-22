@@ -1,0 +1,7 @@
+.Navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+}
